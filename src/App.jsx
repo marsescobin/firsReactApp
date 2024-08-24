@@ -17,7 +17,7 @@ function App() {
         </a>
       </div>
       <h1>Mars' first React project</h1>
-      <h2>Ain't that cool?</h2>
+      <h2>Ain't that cool?!</h2>
       <p>Here to test deployment to Github pages :D</p>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
